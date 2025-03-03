@@ -5,8 +5,8 @@ layout: post
 
 # Jackie Stewart
 
-![Lewis Hamilton](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg/220px-Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg)
+![Lewis Hamilton](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg/220px-Jackie_Stewart_at_the_2014_WEC_Silverstone_round.jpg)
 
-Sir Lewis Carl Davidson Hamilton (born 7 January 1985) is a British racing driver, who is contracted to compete in Formula One for Ferrari. Hamilton has won a joint-record seven Formula One World Drivers' Championship titles—tied with Michael Schumacher—and holds the records for most wins (105), pole positions (104), and podium finishes (202), among others.
+Stewart was instrumental in improving the safety of motor racing, campaigning for better medical facilities and track improvements at motor racing circuits. After John Surtees' death in 2017, he is the last surviving Formula One World Champion from the 1960s. He is also the oldest living Grand Prix winner.
 
 
