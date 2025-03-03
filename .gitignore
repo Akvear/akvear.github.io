@@ -1,0 +1,8 @@
+first-site/main.py
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+.venv
+*.py
