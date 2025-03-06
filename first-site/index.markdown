@@ -6,9 +6,11 @@ layout: post
 
 # Greatest Formula 1 Drivers Of All Time
 
-#### Over the years there's been nearly 1000 different drivers fighting for the world championship.
+#### As of the Abu Dhabi Grand Prix 2024, there have been 778 Formula 1 racing drivers. The new season will also see an injection of talent as six rookie drivers join the grid.
 
-#### The biggest question is who is the best?
+#### But who are the greatest Formula 1 drivers in history?
+
+#### From Niki Lauda and Jim Clark’s 25 victories a piece, to Lewis Hamilton’s 103, here are the 10 – well, 11 – greatest Formula 1 drivers to grace the grid, organised by number of races won.
 
 #### Here's top 11 drivers ranked by [motorsporttickets](https://motorsporttickets.com/blog/10-greatest-formula-1-drivers-in-history/).
 
