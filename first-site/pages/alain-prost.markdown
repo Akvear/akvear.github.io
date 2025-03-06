@@ -13,3 +13,13 @@ Alain Marie Pascal Prost (French pronunciation: [alɛ̃ pʁɔst]; born 24 Februa
 Born in Lorette, Loire, Prost began karting aged 14, winning the junior direct-drive Karting World Cup four years later, and progressing to junior formulae in 1976. Prost won his first title at the Formula Renault National Championship that year, prior to winning the Challenge de Formule Renault Europe in 1977. Replaced by the French Formula Three Championship the following season, he successfully defended his titles in 1978 and 1979. His junior career culminated in his victory at the 1979 FIA European Formula 3 Championship with Oreca. Prost signed for McLaren in 1980, making his Formula One debut at the Argentine Grand Prix, where he finished sixth. He moved to Renault in 1981, taking his maiden victory at his home Grand Prix in France, with further wins in the Netherlands and Italy. Following multiple race wins in his 1982 campaign with Renault, Prost finished runner-up to Nelson Piquet in the 1983 World Drivers' Championship after retiring with a turbo failure in the title-decider. Prost was sacked by Renault two days later for his post-season comments and moved back to McLaren for 1984, where he finished runner-up to teammate Niki Lauda by a record half-point.[c]
 
 
+|------------------|-------|
+| Nationality | French |
+| Entries | 202 (199 starts) |
+| Championships | 4 (1985, 1986, 1989, 1993) |
+| Wins | 51 |
+| Podiums | 106 |
+| Career points | 768.5 (798.5)[a] |
+| Pole positions | 33 |
+
+

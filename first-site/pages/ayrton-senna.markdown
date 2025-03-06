@@ -13,3 +13,13 @@ Ayrton Senna da Silva (Brazilian Portuguese: [aˈiʁtõ ˈsẽnɐ dɐ ˈsiwvɐ] 
 Born and raised in São Paulo, Senna began competitive kart racing aged 13; his first go-kart was built by his father using a lawnmower engine. After twice finishing runner-up at the Karting World Championship, Senna progressed to Formula Ford in 1981, dominating the British and European championships in his debut seasons. He then won the 1983 British Formula Three Championship amidst a close title battle with Martin Brundle, further winning the Macau Grand Prix that year. Senna signed for Toleman in 1984, making his Formula One debut at the Brazilian Grand Prix. After scoring several podium finishes in his rookie season, Senna moved to Lotus in 1985 to replace Nigel Mansell, taking his maiden pole position and victory at the rain-affected Portuguese Grand Prix, a feat he repeated in Belgium. He remained at Lotus for his 1986 and 1987 campaigns, scoring multiple wins in each and finishing third in the latter World Drivers' Championship.
 
 
+|------------------|-------|
+| Nationality | Brazilian |
+| Entries | 162 (161 starts) |
+| Championships | 3 (1988, 1990, 1991) |
+| Wins | 41 |
+| Podiums | 80 |
+| Career points | 610 (614)[a] |
+| Pole positions | 65 |
+
+
