@@ -13,18 +13,13 @@ James Clark (4 March 1936 – 7 April 1968) was a British racing driver from Sco
 Born in Fife and raised in the Scottish Borders, Clark started his racing career in road rallying and hillclimbing. By 1958, Clark had graduated to sports car racing in national competition with Border Reivers, racing the Jaguar D-Type and Porsche 356, where he attracted the attention of Lotus founder Colin Chapman. Driving a Lotus Elite, Clark finished second-in-class at the 24 Hours of Le Mans in 1959. Clark made his formula racing debut the following year in Formula Junior, winning the championship ahead of reigning seven-time Grand Prix motorcycle racing World Champion John Surtees. After immediately impressing in Formula Two, Clark was promoted to Formula One with Lotus for the remainder of the 1960 season alongside Surtees and Innes Ireland, making his debut at the Dutch Grand Prix and scoring his maiden podium four races later in Portugal; Clark finished third overall at Le Mans that year. 
 
 
+| Attribute | Stat |
 |------------------|-------|
 | Nationality | British |
 | Entries | 73 (72 starts) |
-| Championships | 3 (1965, 1967, 1968) |
-| Wins | Wins
-Podiums
-Poles
-
-2
-4
-3 |
-| Podiums | 23 |
+| Championships | 2 (1963, 1965) |
+| Wins | 25 |
+| Podiums | 32 |
 | Career points | 255 (274)[a] |
 | Pole positions | 33 |
 

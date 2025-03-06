@@ -13,6 +13,7 @@ Sebastian Vettel (German pronunciation: [zeˈbasti̯a(ː)n ˈfɛtl̩] ⓘ; born 
 Born and raised in Heppenheim, Vettel began competitive kart racing aged eight. After a successful karting career—culminating in his victory at the junior direct-drive Karting European Championship in 2001—Vettel graduated to junior formulae. He started his career in Formula BMW ADAC, dominating the championship in 2004 with 18 wins from 20 races. Vettel then progressed to the Formula 3 Euro Series in 2005, taking several victories and finishing runner-up to Paul di Resta the following season. A test driver for BMW Sauber since 2006, Vettel made his Formula One debut at the 2007 United States Grand Prix. Vettel replaced Scott Speed at Toro Rosso after the European Grand Prix for the remainder of the 2007 season, as part of the Red Bull Junior Team. Retaining his seat for 2008, Vettel achieved his maiden pole position and victory at the Italian Grand Prix to become the then-youngest driver to win a Formula One Grand Prix. Vettel was promoted to parent team Red Bull in 2009, taking several wins as he finished runner-up to Jenson Button in the World Drivers' Championship.
 
 
+| Attribute | Stat |
 |------------------|-------|
 | Nationality | German |
 | Entries | 300 (299 starts) |

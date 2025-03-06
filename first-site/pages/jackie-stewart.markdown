@@ -13,6 +13,7 @@ Sir John Young "Jackie" Stewart (born 11 June 1939) is a British former racing d
 Amongst his three titles, Stewart twice finished as runner-up over his nine seasons in Formula One. He was the only British driver with three championships until Lewis Hamilton equalled him in 2015. Outside of Formula One, he narrowly missed out on a win at his first attempt at the Indianapolis 500 in 1966 and competed in the Can-Am series in 1970 and 1971. Between 1997 and 1999, in partnership with his son, Paul, he was team principal of the Stewart Grand Prix F1 racing team. After retiring from racing, Stewart was an ABC network television sports commentator for both auto racing, covering the Indianapolis 500 for over a decade, and for several summer Olympics covering many events, being a distinctive presence with his pronounced Scottish accent. Stewart also served as a television commercial spokesman for both the Ford Motor Company and Heineken beer.
 
 
+| Attribute | Stat |
 |------------------|-------|
 | Nationality | British |
 | Entries | 100 (99 starts) |
