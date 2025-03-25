@@ -7,12 +7,12 @@
     <title>Formuła 1 - Strona Informacyjna</title>
 </head>
 <body class="px-25 py-3 h-screen bg-gradient-to-r from-stone-600 via-stone-800 to-stone-600 space-y-2">
-    <header class="bg-gray-800 text-white py-6 text-center w-full mx-auto md:rounded-lg max-w-2/3">
+    <header class="bg-gray-800 text-white py-6 text-center w-full mx-auto rounded-lg md:w-2/3">
     <!-- <header class="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-12 text-center rounded-lg shadow-lg"> -->
         <h1 class="text-5xl font-extrabold leading-tight tracking-wide font-sans">Formuła 1 - Najszybszy sport świata</h1>
     </header>        
     
-    <div class="bg-gray-600 py-6 rounded-lg max-w-2/3 mx-auto">
+    <div class="bg-gray-600 py-6 w-full mx-autorounded-lg md:w-2/3">
         <article class="max-w-5xl py-8 px-4 mx-auto font-sans">
             <h2 class="text-3xl font-semibold text-white mb-4">Historia Formuły 1</h2>
             <p class="text-lg leading-relaxed text-white mt-4">
@@ -112,13 +112,13 @@
             <div class="mb-6">
                 <label for="team" class="block text-lg font-semibold mb-2">Ulubiony zespół:</label>
                 <select id="team" name="team" class="w-full p-3 bg-gray-700 text-white rounded-md border border-gray-600 focus:outline-none focus:ring-2 focus:ring-sky-500" required>
-                    <optgroup label="Top Teams">
+                    <optgroup label="Topowe Drużyny">
                         <option value="mercedes">Mercedes</option>
                         <option value="redbull">Red Bull</option>
                         <option value="ferrari">Ferrari</option>
                         <option value="mclaren">McLaren</option>
                     </optgroup>
-                    <optgroup label="Other Teams">
+                    <optgroup label="Inne Drużyny">
                         <option value="aston">Aston Martin</option>
                         <option value="williams">Williams</option>
                         <option value="haas">Haas</option>
@@ -129,7 +129,7 @@
                 </select>
             </div>
 
-            <div class="relative w-full p-3 bg-sky-500 text-white rounded-md hover:bg-sky-600 transition duration-300 ease-in-out">
+            <div class="relative w-full p-3 text-center bg-sky-500 text-white rounded-md hover:bg-sky-600 transition duration-300 ease-in-out">
                 <span class="absolute -top-1 -right-1 h-3 w-3 bg-white rounded-full animate-ping"></span>   
                 <button type="submit" class="focus:outline-none focus:ring-2 focus:ring-sky-500">Zapisz się</button>
             </div>
