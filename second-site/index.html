@@ -7,7 +7,7 @@
     <title>Formuła 1 - Strona Informacyjna</title>
 </head>
 <body class="px-25 py-3 h-screen bg-gradient-to-r from-stone-600 via-stone-800 to-stone-600 space-y-2">
-    <header class="bg-gray-800 text-white py-6 text-center rounded-lg max-w-2/3 mx-auto">
+    <header class="bg-gray-800 text-white py-6 text-center w-full mx-auto md:rounded-lg max-w-2/3">
     <!-- <header class="bg-gradient-to-r from-indigo-600 to-purple-700 text-white py-12 text-center rounded-lg shadow-lg"> -->
         <h1 class="text-5xl font-extrabold leading-tight tracking-wide font-sans">Formuła 1 - Najszybszy sport świata</h1>
     </header>        
@@ -38,49 +38,51 @@
             
         </article>
 
-        <table class="table-auto border-collapse border border-gray-700 shadow-lg text-center max-w-6xl mx-auto">
-            <caption class="caption-top text-2xl text-white font-semibold my-2">Najwięksi mistrzowie F1</caption>
-            <thead>
-                <tr class="bg-gray-800 text-white">
-                    <th class="border border-gray-700 px-6 py-3 text-xl">Imię i Nazwisko</th>
-                    <th class="border border-gray-700 px-6 py-3 text-xl">Liczba tytułów</th>
-                    <th class="border border-gray-700 px-6 py-3 text-xl">Okres dominacji</th>
-                    <th class="border border-gray-700 px-6 py-3 text-xl">Liczba zwycięstw</th>
-                    <th class="border border-gray-700 px-6 py-3 text-xl">Narodowość</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr class="bg-red-400 hover:bg-red-500 transition duration-300 ease-in-out">   
-                    <td class="border border-gray-700 px-3 py-1">Michael Schumacher</td>
-                    <td class="border border-gray-700 px-3 py-1">7</td>
-                    <td class="border border-gray-700 px-3 py-1">1994-2004</td>
-                    <td class="border border-gray-700 px-3 py-1">91</td>
-                    <td class="border border-gray-700 px-3 py-1">Niemcy</td>
-                </tr>
-                <tr class="bg-teal-400 hover:bg-teal-500 transition duration-300 ease-in-out">
-                    <td class="border border-gray-700 px-3 py-1">Lewis Hamilton</td>
-                    <td class="border border-gray-700 px-3 py-1">7</td>
-                    <td class="border border-gray-700 px-3 py-1">2008-2020</td>
-                    <td class="border border-gray-700 px-3 py-1">105</td>
-                    <td class="border border-gray-700 px-3 py-1">Wielka Brytania</td>
-                </tr>
-                <tr class="bg-violet-200 hover:bg-violet-300 transition duration-300 ease-in-out">
-                    <td class="border border-gray-700 px-3 py-1">Sebastian Vettel</td>
-                    <td class="border border-gray-700 px-3 py-1">4</td>
-                    <td class="border border-gray-700 px-3 py-1">2010-2013</td>
-                    <td class="border border-gray-700 px-3 py-1">53</td>
-                    <td class="border border-gray-700 px-3 py-1">Niemcy</td>
-                </tr>
-                <tr class="bg-blue-400 hover:bg-blue-500 transition duration-300 ease-in-out">
-                    <td class="border border-gray-700 px-3 py-1">Max Verstappen</td>
-                    <td class="border border-gray-700 px-3 py-1">4</td>
-                    <td class="border border-gray-700 px-3 py-1">2021-2024</td>
-                    <td class="border border-gray-700 px-3 py-1">63</td>
-                    <td class="border border-gray-700 px-3 py-1">Holandia</td>
-                </tr>
-            </tbody>
-        </table>
-        
+        <div class="max-w-4xl bg-gray-800 px-6 pb-6 pt-3 rounded-lg shadow-lg text-white my-4 mx-auto overflow-x-auto">
+            <table class="table-auto border-collapse border border-gray-700 shadow-lg text-center mx-auto">   
+                <caption class="caption-top text-2xl text-white font-semibold pb-3">Najwięksi mistrzowie F1</caption>
+                <thead>
+                    <tr class="bg-gray-600 text-white">
+                        <th class="border border-black px-6 py-3 text-xl">Imię i Nazwisko</th>
+                        <th class="border border-black px-6 py-3 text-xl">Liczba tytułów</th>
+                        <th class="border border-black px-6 py-3 text-xl">Okres dominacji</th>
+                        <th class="border border-black px-6 py-3 text-xl">Liczba zwycięstw</th>
+                        <th class="border border-black px-6 py-3 text-xl">Narodowość</th>
+                    </tr>
+                </thead>
+                <tbody class="text-black">
+                    <tr class="bg-red-400 hover:bg-red-500 transition duration-300 ease-in-out">   
+                        <td class="border border-gray-700 px-3 py-1">Michael Schumacher</td>
+                        <td class="border border-gray-700 px-3 py-1">7</td>
+                        <td class="border border-gray-700 px-3 py-1">1994-2004</td>
+                        <td class="border border-gray-700 px-3 py-1">91</td>
+                        <td class="border border-gray-700 px-3 py-1">Niemcy</td>
+                    </tr>
+                    <tr class="bg-teal-400 hover:bg-teal-500 transition duration-300 ease-in-out">
+                        <td class="border border-gray-700 px-3 py-1">Lewis Hamilton</td>
+                        <td class="border border-gray-700 px-3 py-1">7</td>
+                        <td class="border border-gray-700 px-3 py-1">2008-2020</td>
+                        <td class="border border-gray-700 px-3 py-1">105</td>
+                        <td class="border border-gray-700 px-3 py-1">Wielka Brytania</td>
+                    </tr>
+                    <tr class="bg-violet-200 hover:bg-violet-300 transition duration-300 ease-in-out">
+                        <td class="border border-gray-700 px-3 py-1">Sebastian Vettel</td>
+                        <td class="border border-gray-700 px-3 py-1">4</td>
+                        <td class="border border-gray-700 px-3 py-1">2010-2013</td>
+                        <td class="border border-gray-700 px-3 py-1">53</td>
+                        <td class="border border-gray-700 px-3 py-1">Niemcy</td>
+                    </tr>
+                    <tr class="bg-blue-400 hover:bg-blue-500 transition duration-300 ease-in-out">
+                        <td class="border border-gray-700 px-3 py-1">Max Verstappen</td>
+                        <td class="border border-gray-700 px-3 py-1">4</td>
+                        <td class="border border-gray-700 px-3 py-1">2021-2024</td>
+                        <td class="border border-gray-700 px-3 py-1">63</td>
+                        <td class="border border-gray-700 px-3 py-1">Holandia</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
         <div class="max-w-4xl bg-gray-800 p-8 rounded-lg shadow-lg text-white my-8 mx-auto">
             <div class="text-center max-w-4xl mx-auto">
                 <h2 class="text-4xl font-bold text-blue-400 mb-5">Najważniejsze tory F1</h2>
@@ -198,7 +200,7 @@
             </div>
         </div>
 
-        <div class="max-w-4xl bg-gray-800 p-8 rounded-lg shadow-lg text-white my-8 mx-auto">
+        <div class="max-w-4xl bg-gray-800 p-8 rounded-lg shadow-lg text-white my-8 mx-auto overflow-x-auto">
             <h2 class="text-3xl font-semibold text-yellow-400 mb-6 text-center">Struktura Garażu F1</h2>
         
             <div class="flex bg-gray-800 p-4 rounded-lg shadow-md space-x-4">
