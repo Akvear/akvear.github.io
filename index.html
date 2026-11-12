@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jakub Janowski — Software Engineer</title>
+  <meta name="description"
+    content="Jakub Janowski — Computer Science student at the University of Warsaw working on systems, databases and Rust. ScyllaDB software engineering intern.">
+  <meta property="og:title" content="Jakub Janowski — Software Engineer">
+  <meta property="og:description"
+    content="Systems, databases & Rust. MSc Computer Science student at the University of Warsaw.">
+  <meta property="og:type" content="profile">
+  <meta property="og:url" content="https://akvear.github.io/">
+  <link rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%232563eb'/%3E%3Ctext x='32' y='42' font-family='Arial,sans-serif' font-size='28' font-weight='700' fill='white' text-anchor='middle'%3EJJ%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main class="container">
+    <header class="hero">
+      <h1>Jakub Janowski</h1>
+      <p class="tagline">Computer Science student (MSc, University of Warsaw) · Systems, databases &amp; Rust</p>
+      <p class="intro">
+        I work on low-level systems and database software. At ScyllaDB I integrated Microsoft's DiskANN
+        into the Rust-based vector search engine, and for my bachelor's thesis I co-built a new C# driver
+        for ScyllaDB on top of its Rust driver. I'm currently pursuing a master's degree specializing in
+        Computer Systems.
+      </p>
+      <nav class="links" aria-label="Contact">
+        <a href="mailto:janowski.js.biz@gmail.com">janowski.js.biz@gmail.com</a>
+        <a href="https://www.linkedin.com/in/jakub-janowski7" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://github.com/akvear" target="_blank" rel="noopener">GitHub</a>
+        <a class="button" href="JakubJanowskiCV.pdf" download>Download CV</a>
+      </nav>
+    </header>
+
+    <section>
+      <h2>Experience</h2>
+      <article class="entry">
+        <div class="entry-head">
+          <div>
+            <h3>Software Engineering Intern</h3>
+            <p class="org">ScyllaDB · Warsaw, Poland</p>
+          </div>
+          <p class="date">Jul 2026 – Sep 2026</p>
+        </div>
+        <ul>
+          <li>Integrated Microsoft's DiskANN into ScyllaDB's Rust-based vector search by implementing a custom
+            <code>DataProvider</code>, as a lower-cost alternative to the existing RAM-resident usearch-based index.
+          </li>
+          <li>Removed the in-memory copy of vectors: they are now fetched from the base table the index is built on,
+            cutting the index's RAM cost.</li>
+          <li>Moved the graph itself into ScyllaDB as well, with performance on par with the vectors-only variant.</li>
+          <li>Built a fully in-memory DiskANN <code>DataProvider</code> variant and benchmarked it against the remote
+            variant to quantify the memory/throughput trade-off.</li>
+          <li>Measured the performance of DiskANN-backed vector search on AWS clusters.</li>
+        </ul>
+        <p class="entry-links"><a href="https://github.com/scylladb/vector-store" target="_blank"
+            rel="noopener">scylladb/vector-store ↗</a></p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <article class="entry">
+        <div class="entry-head">
+          <div>
+            <h3>C# driver for ScyllaDB (Bachelor's thesis)</h3>
+            <p class="org">Team of four, in collaboration with ScyllaDB</p>
+          </div>
+          <p class="date">Oct 2025 – Jun 2026</p>
+        </div>
+        <ul>
+          <li>Developed a new C# driver for ScyllaDB as a wrapper over its Rust driver, preserving the API of the
+            existing C# driver while delegating protocol and cluster logic to the Rust core.</li>
+          <li>Built the C#/Rust FFI layer by hand, without binding generators, covering memory management, Rust-to-C#
+            error conversion and async execution.</li>
+          <li>Implemented several core driver features, including result deserialization, logging and connection
+            configuration.</li>
+          <li>Wrote unit and integration tests; contributed missing APIs upstream to the Rust driver.</li>
+          <li>Benchmarked the driver against the old one; it proved faster, with the biggest gains in concurrent
+            workloads.</li>
+        </ul>
+        <p class="entry-links">
+          <a href="https://github.com/scylladb/csharp-rs-driver/" target="_blank"
+            rel="noopener">scylladb/csharp-rs-driver ↗</a>
+          <a href="https://apd.uw.edu.pl/diplomas/252974/" target="_blank" rel="noopener">Thesis ↗</a>
+        </p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <article class="entry">
+        <div class="entry-head">
+          <div>
+            <h3>University of Warsaw</h3>
+            <p class="org">Master in Computer Science</p>
+          </div>
+          <p class="date">Oct 2026 – present</p>
+        </div>
+        <ul>
+          <li>Specialization: Computer Systems · Expected graduation: 2028</li>
+        </ul>
+      </article>
+      <article class="entry">
+        <div class="entry-head">
+          <div>
+            <h3>University of Warsaw</h3>
+            <p class="org">Bachelor in Computer Science</p>
+          </div>
+          <p class="date">Oct 2023 – Jul 2026</p>
+        </div>
+        <ul>
+          <li>Thesis: <a href="https://apd.uw.edu.pl/diplomas/252974/" target="_blank" rel="noopener">new C# driver for
+              ScyllaDB</a> (in collaboration with ScyllaDB)</li>
+          <li>Relevant coursework: Data Structures &amp; Algorithms, Databases, Operating Systems, Concurrent
+            Programming, Deep Neural Networks</li>
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <dl class="skills">
+        <dt>Languages</dt>
+        <dd>
+          <span>Rust</span><span>C#</span><span>Python</span><span>C/C++</span><span>Java</span><span>JavaScript</span><span>SQL</span>
+        </dd>
+        <dt>Frameworks &amp; Libraries</dt>
+        <dd><span>.NET</span><span>Tokio</span><span>Node.js</span><span>Django</span></dd>
+        <dt>Tools</dt>
+        <dd><span>Git</span><span>GitHub Actions</span><span>Docker</span><span>Cargo</span><span>VSCode</span></dd>
+        <dt>Platforms</dt>
+        <dd><span>Linux</span><span>AWS</span></dd>
+        <dt>AI Coding Tools</dt>
+        <dd><span>Claude Code</span><span>GitHub Copilot</span><span>OpenCode</span></dd>
+      </dl>
+    </section>
+
+    <section>
+      <h2>Additional</h2>
+      <ul class="plain">
+        <li><strong>Spoken languages:</strong> Polish (native), English (C2, Cambridge CAE)</li>
+      </ul>
+    </section>
+
+    <footer>
+      <nav class="links" aria-label="Contact">
+        <a href="mailto:janowski.js.biz@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/jakub-janowski7" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://github.com/akvear" target="_blank" rel="noopener">GitHub</a>
+        <a href="JakubJanowskiCV.pdf" download>CV (PDF)</a>
+      </nav>
+      <p>© 2026 Jakub Janowski</p>
+    </footer>
+  </main>
+</body>
+
+</html>
